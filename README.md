@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bennyd6" alt="bennyd6" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Paddy Procurement System](https://github.com/bennyd6/mini-project)
+- 🔭 I’m currently building (bash-space.vercel.app)
 
 - 👯 I’m looking to collaborate on **building websites**
 
